@@ -97,7 +97,7 @@ func CreateEmployee(name string, location string) (int64, error) {
 	var err error
 
 	if db == nil {
-		log.Fatal("What?")
+		log.Fatal("Oops! " + err.Error())
 	}
 
 	// Check if database is alive.
