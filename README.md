@@ -5,3 +5,5 @@
 Contains the following projects:
 1. sqlservergo
    - part of [Create Go apps using SQL Server on Windows](https://www.microsoft.com/en-us/sql-server/developer-get-started/go/windows/) series 
+2. codecademy
+   - part of [Learn Go](https://www.codecademy.com/learn/learn-go) series
