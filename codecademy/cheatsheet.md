@@ -1,5 +1,12 @@
 # Cheatsheet
 
+## References
+- https://github.com/golang-standards/project-layout
+- https://blog.golang.org/package-names
+- https://rakyll.org/style-packages/
+- https://vsupalov.com/go-folder-structure/
+- https://talks.golang.org/2013/bestpractices.slide#18
+
 
 ## Hello
 ```
